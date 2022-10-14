@@ -51,7 +51,7 @@
 <br>
 
 ## Contato e Redes Sociais🤳
-  
+
 <div> 
     <a href = "mailto:gabrielss432112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gabriel.santos65" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -60,13 +60,13 @@
     <a href="https://t.me/gabriel_ssa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/W3nb9MQefw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    
- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
 
  
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/91688865/195938426-68ce676b-1133-41f8-8c67-2b48cfce88f2.gif)
+
+
 
 
           
