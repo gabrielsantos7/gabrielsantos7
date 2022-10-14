@@ -1,16 +1,74 @@
-### Hi there 👋
+## print('Hello World! My name is Gabriel Santos') 👋
 
-<!--
-**gabrielss432112/gabrielss432112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📂 ⁠"Deus é o maior programador de todos os tempos, pois criou toda arquitetura do universo em loops finitos e infinitos, feita com a linguagem universal do amor."
+- 💻 I love Programar. Tenho 17 anos e estou cursando o Curso Técnico em Informática no IFBA- Campus Brumado.
+- 🎮 Gosto de fazer programas voltados para entretenimento, como jogos.
+- ⚡ Em meu tempo livre gosto de caminhar, ouvir música e escrever.
+- 🌿Made in roça.
 
-Here are some ideas to get you started:
+## Linguagens que domino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
+
+  
+</div>
+<br>
+
+## Softwares que utilizo
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+  <img align="center" alt="Mozilla Firefox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+
+  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+</div>
+<br>
+
+## Estatísticas do GitHub 📊
+<div align="center">
+  <a href="https://github.com/gabrielss432112">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielss432112&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielss432112&layout=compact&langs_count=7&theme=aura"/>
+</div>
+<br>
+
+## Contato e Redes Sociais
+
+  <div>
+  
+  <a href = "mailto:gabrielss432112@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://instagram.com/gabriel.santos65" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.facebook.com/gabriel5kazekage/" target="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/gabriel-silva-santos-3869b5247/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="gabriel_ssa" target="_blank"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  
+   </div>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+
+
+
+          
