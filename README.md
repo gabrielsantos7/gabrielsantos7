@@ -6,7 +6,7 @@
 - ⚡ Em meu tempo livre gosto de caminhar, ouvir música e escrever.
 - 🌿 Made in roça.
 
-## Linguagens que domino
+## Linguagens que estudo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
