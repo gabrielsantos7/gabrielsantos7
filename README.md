@@ -3,7 +3,7 @@
 - 📂 ⁠"Deus é o maior programador de todos os tempos, pois criou toda arquitetura do universo em loops finitos e infinitos, feita com a linguagem universal do amor."
 - 💻 I love Programar. Tenho 17 anos e estou cursando o Curso Técnico em Informática no IFBA- Campus Brumado.
 - 🎮 Gosto de fazer programas voltados para entretenimento, como jogos.
-- ⚡ Em meu tempo livre gosto de caminhar, ouvir música e escrever.
+- ⚡ Em meu tempo livre gosto de caminhar, ouvir música, assim como jogar baralho e dominó.
 - 🌿 Made in roça.
 
 ## Linguagens que estudo
