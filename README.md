@@ -1,4 +1,4 @@
-## print('Hello World! My name is Gabriel Santos') 👋
+## print('Hello World! My name is Gabriel Santos')👋
 
 - 📂 ⁠"Deus é o maior programador de todos os tempos, pois criou toda arquitetura do universo em loops finitos e infinitos, feita com a linguagem universal do amor."
 - 💻 I love Programar. Tenho 17 anos e estou cursando o Curso Técnico em Informática no IFBA- Campus Brumado.
