@@ -4,7 +4,7 @@
 - 💻 I love Programar. Tenho 17 anos e estou cursando o Curso Técnico em Informática no IFBA- Campus Brumado.
 - 🎮 Gosto de fazer programas voltados para entretenimento, como jogos.
 - ⚡ Em meu tempo livre gosto de caminhar, ouvir música e escrever.
-- 🌿Made in roça.
+- 🌿 Made in roça.
 
 ## Linguagens que domino
 
