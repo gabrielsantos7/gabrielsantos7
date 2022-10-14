@@ -59,13 +59,14 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-santos-3869b5247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://t.me/gabriel_ssa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/W3nb9MQefw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
  
-
+![mummytocat](https://user-images.githubusercontent.com/91688865/195937543-6234d3e1-429d-488d-ad3e-dbaa03c1f6ce.gif)
 
 
           
