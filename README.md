@@ -44,9 +44,9 @@
 
 ## Estatísticas do GitHub 📊
 <div align="center">
-  <a href="https://github.com/gabrielss432112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielss432112&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielss432112&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/gabrielsantos7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos7&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <br>
 
@@ -59,8 +59,6 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-santos-3869b5247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://t.me/gabriel_ssa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/W3nb9MQefw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
