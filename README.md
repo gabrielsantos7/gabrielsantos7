@@ -1,19 +1,22 @@
 ## print('Hello World! My name is Gabriel Santos')👋
 
-- 📂 ⁠"Deus é o maior programador de todos os tempos, pois criou toda arquitetura do universo em loops finitos e infinitos, feita com a linguagem universal do amor."
+- 📂 ⁠Focado em ser um dev FullStack.
 - 💻 A programação é para mim um hobby. Tenho 18 anos e estou cursando o Curso Técnico em Informática no IFBA- Campus Brumado.
 - 🎮 Gosto de fazer programas voltados para entretenimento, como jogos, sites interativos, etc.
 - ⚡ Em meu tempo livre gosto de caminhar, ouvir música, assim como jogar baralho e dominó.
 - 🌿 Made in roça.
 
-## Habilidades de Desenvolvimento 💾
+## :computer: Habilidades de Desenvolvimento
 
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="Typecript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     
@@ -21,31 +24,44 @@
 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          
-    
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
-          
-  
 </div>
 <br>
 
-## Frameworks
+## :toolbox: Frameworks 
 
 <div style="display: inline_block"><br>
- 
+
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
   
-  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-          
+  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />         
   
 </div>
 <br>
 
-## Softwares / Tecnologias
+## :floppy_disk: Bancos de Dados
 
 <div style="display: inline_block"><br>
+
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
+
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />           
+  
+</div>
+<br>
+
+## :wrench: Ferramentas e Tecnologias 
+
+<div style="display: inline_block"><br>
+
+   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+   <img align="center" alt="WebPack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+   
+   <img align="center" alt="Babel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
   
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
          
