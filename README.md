@@ -1,9 +1,9 @@
-## print('Hello World! My name is Gabriel Santos')👋
+## console.log('Hello World! My name is Gabriel Santos')👋
 
-- 📂 ⁠Focado em ser um dev FullStack.
-- 💻 A programação é para mim um hobby. Tenho 18 anos e estou cursando o Curso Técnico em Informática no IFBA- Campus Brumado.
-- 🎮 Gosto de fazer programas voltados para entretenimento, como jogos, sites interativos, etc.
-- ⚡ Em meu tempo livre gosto de caminhar, ouvir música, assim como jogar baralho e dominó.
+- 📂 Entusiasta da programação com foco em me tornar um desenvolvedor FullStack. 
+- 💻 Atualmente, estou com 18 anos e cursando o Curso Técnico em Informática no IFBA - Campus Brumado.
+- 🎮 A programação não é apenas uma carreira para mim, é um verdadeiro hobby que me apaixona. Adoro trabalhar em projetos envolventes, como jogos e sites interativos.
+- ⚡ Estou sempre em busca de novos desafios e aprendizado contínuo, buscando aprimorar minhas habilidades técnicas e ampliar meus horizontes na área de desenvolvimento.
 - 🌿 Made in roça.
 
 ## :computer: Habilidades de Desenvolvimento
