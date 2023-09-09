@@ -1,6 +1,6 @@
 ## console.log('Hello World! My name is Gabriel Santos')👋
 
-- 📂 Entusiasta da programação com foco em me tornar um desenvolvedor FullStack. 
+- 📂 Entusiasta da programação com foco em me tornar um Desenvolvedor Web FullStack. 
 - 💻 Atualmente, estou com 18 anos e cursando o Curso Técnico em Informática no IFBA - Campus Brumado.
 - 🎮 A programação não é apenas uma carreira para mim, é um verdadeiro hobby que me apaixona. Adoro trabalhar em projetos envolventes, como jogos e sites interativos.
 - ⚡ Estou sempre em busca de novos desafios e aprendizado contínuo, buscando aprimorar minhas habilidades técnicas e ampliar meus horizontes na área de desenvolvimento.
@@ -31,13 +31,19 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
+
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
   
-  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />         
+  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />  
+          
   
 </div>
 <br>
