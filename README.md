@@ -30,7 +30,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Angular" title="Angular" height="37" width="37" src="https://imgs.search.brave.com/_M_qcEEUvXIaIVOsL1TH897DRb30SXj2tiJFN7wrAYs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2FuZ3Vs/YXIvYW5ndWxhci9y/YXcvbWFpbi9haW8v/c3JjL2Fzc2V0cy9p/bWFnZXMvbG9nb3Mv/YW5ndWxhci9hbmd1/bGFyLnBuZw" />
 
   <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
