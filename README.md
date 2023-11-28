@@ -1,4 +1,4 @@
-## console.log('Hello World! My name is Gabriel Santos')👋
+## 'Hello World! My name is Gabriel Santos 👋' ;
 
 - 📂 Entusiasta da programação com foco em me tornar um Desenvolvedor Web FullStack. 
 - 💻 Atualmente, estou com 18 anos e cursando o Curso Técnico em Informática no IFBA - Campus Brumado.
