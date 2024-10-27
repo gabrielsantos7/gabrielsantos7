@@ -1,97 +1,29 @@
-## 'Hello World! My name is Gabriel Santos 👋' ;
+# Hello, world! My name is Gabriel Santos! 👋
 
-- 📂 Entusiasta da programação com foco em me tornar um Desenvolvedor Web FullStack. 
-- 💻 Atualmente, estou com 18 anos e cursando o Curso Técnico em Informática no IFBA - Campus Brumado.
-- 🎮 A programação não é apenas uma carreira para mim, é um verdadeiro hobby que me apaixona. Adoro trabalhar em projetos envolventes, como jogos e sites interativos.
-- ⚡ Estou sempre em busca de novos desafios e aprendizado contínuo, buscando aprimorar minhas habilidades técnicas e ampliar meus horizontes na área de desenvolvimento.
-- 🌿 Made in roça.
+📂 Entusiasta da programação com foco em me tornar um Desenvolvedor Web FullStack. <br>
+💻 Atualmente, tenho 20 anos, sou Técnico em Informática pelo IFBA e cursando Ciência da Computação pela Unopar / Anhanguera.<br>
+🎮 A programação não é apenas uma carreira para mim, é um verdadeiro hobby que me apaixona. Adoro trabalhar em projetos envolventes, como jogos e sites interativos.<br>
+⚡ Estou sempre em busca de novos desafios e aprendizado contínuo, buscando aprimorar minhas habilidades técnicas e ampliar meus horizontes na área de desenvolvimento.
 
-## :computer: Habilidades de Desenvolvimento
+## 🤳 Socials:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielsantos.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsantos5) 
 
-  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
-  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+# 👨‍💻 Tech Stack:
 
-  <img align="center" alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+# 📊 GitHub Stats:
+
+<div>
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrielsantos7&theme=aura&hide_border=false&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsantos7&theme=aura&hide_border=false"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos7&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
 </div>
 
-<br>
+## 🔝 Top Contributed Repo
 
-## :toolbox: Frameworks 
+![](https://github-contributor-stats.vercel.app/api?username=gabrielsantos7&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Angular" title="Angular" height="37" width="37" src="https://imgs.search.brave.com/_M_qcEEUvXIaIVOsL1TH897DRb30SXj2tiJFN7wrAYs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2FuZ3Vs/YXIvYW5ndWxhci9y/YXcvbWFpbi9haW8v/c3JjL2Fzc2V0cy9p/bWFnZXMvbG9nb3Mv/YW5ndWxhci9hbmd1/bGFyLnBuZw" />
-
-  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
-  <img align="center" alt="TailwindCSS" title="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-          
-  <img align="center" alt="Express" title="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
-   <img align="center" alt="NestJS" title="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  
-  <img align="center" alt="SpringBoot" title="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   
-  
-</div>
-<br>
-
-## :floppy_disk: Bancos de Dados
-
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
-
-  <img align="center" alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />           
-  
-</div>
-<br>
-
-## :wrench: Ferramentas e Tecnologias 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Node" title="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <img align="center" alt="WebPack" title="WebPack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-  
-  <img align="center" alt="Babel" title="Babel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-
-  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-  <img align="center" alt="VS Code" title="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  
-  <img align="center" alt="Jupyter" title="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>
-
-<br>
-
-## Estatísticas do GitHub 📊
-<div align="center">
-  <a href="https://github.com/gabrielsantos7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos7&layout=compact&langs_count=7&theme=aura"/>
-</div>
-<br>
-
-## Contato e Redes Sociais🤳
-
-<div> 
-    <a href = "mailto:gabrielss432112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/gabriel.santos65" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.facebook.com/gabriel5kazekage/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-silva-santos-3869b5247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://t.me/gabriel_ssa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/W3nb9MQefw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-</div>    
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
